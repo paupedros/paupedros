@@ -4,6 +4,8 @@ I'm a Software Developer student at [ITIC BCN](https://agora.xtec.cat/iticbcn/) 
 
 ![paupedros's Stats](https://github-readme-stats.vercel.app/api?username=paupedros&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your username]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+
 ## 🚀 About Me
 At the moment, I'm studying at ITIC BCN, where I'm learning about the technologies and habilities needed to create complete web and mobile apps.
 I'm highly motivated to learn everything I can about Full-Stack Development and impatient to start my career in this field.
@@ -41,7 +43,11 @@ I'm highly motivated to learn everything I can about Full-Stack Development and 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://linkedin.com/in/paupedros)
+<a href="[link to your LinkedIn profile]">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<hr>
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
