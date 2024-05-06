@@ -56,8 +56,11 @@ I'm highly motivated to learn everything I can about Full-Stack Development and 
 
 ## 📬 Get in Touch
 
-<a href="[link to your LinkedIn profile]">
+<a href="https://www.linkedin.com/in/paupedros" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a> <span>  </span>
+<a href="mailto:paupedros10@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/mail-preceed?style=for-the-badge&logo=gmail&logoColor=%23FFF&color=%23EA4335" alt="Mail Badge"/>
 </a>
 
 <hr>
