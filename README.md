@@ -2,9 +2,15 @@
 
 I'm a Software Developer student at [ITIC BCN](https://agora.xtec.cat/iticbcn/) aiming to become a Full-Stack Developer.
 
-![paupedros's Stats](https://github-readme-stats.vercel.app/api?username=paupedros&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div>
+  
+  ![paupedros's git Stats](https://github-readme-stats.vercel.app/api?username=paupedros&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paupedros&layout=compact&theme=vue-dark" alt="Top Languages"/>
+  ![paupedros's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paupedros&layout=compact&theme=vue-dark&show_icons=true&hide_border=true)
+  
+</div>
+
+
 
 ## 🚀 About Me
 At the moment, I'm studying at ITIC BCN, where I'm learning about the technologies and habilities needed to create complete web and mobile apps.
@@ -12,19 +18,26 @@ I'm highly motivated to learn everything I can about Full-Stack Development and 
 
 ## Tech Stack
 ### Programming languages
-[![Languages](https://skillicons.dev/icons?i=java,js,py)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/java-passing?style=for-the-badge&logo=OpenJDK&logoSize=height%3D25px&color=%23242938)
+![JS](https://img.shields.io/badge/JavaScript-passing?style=for-the-badge&logo=javascript&logoSize=height%3D25px&color=%23323330)
+![Python](https://img.shields.io/badge/python-passing?style=for-the-badge&logo=python&logoSize=height%3D25px&color=%23ffcd3c)
 
 ### Frontend
-[![Front](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+![HTML](https://img.shields.io/badge/html-passing?style=for-the-badge&logo=html5&logoColor=%23FFF&logoSize=height%3D25px&color=%23E34F26)
+![CSS](https://img.shields.io/badge/css-passing?style=for-the-badge&logo=css3&logoColor=%23FFF&logoSize=height%3D25px&color=%231572B6)
 
 ### Databases
-[![Bases](https://skillicons.dev/icons?i=mysql,oracle)](https://skillicons.dev)
+![MySQL](https://img.shields.io/badge/mysql-passing?style=for-the-badge&logo=mysql&logoColor=%23FFF&logoSize=height%3D25px&color=%234479A1)
+![ORACLE](https://img.shields.io/badge/oracle-passing?style=for-the-badge&logo=oracle&logoColor=%23FFF&logoSize=height%3D25px&color=%23F80000)
 
 ### UI/UX Design
-[![Design](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
+![FIGMA](https://img.shields.io/badge/figma-passing?style=for-the-badge&logo=figma&logoColor=%23FFF&logoSize=height%3D25px&color=%231f1f27)
+![XD](https://img.shields.io/badge/Adobe%20XD-passing?style=for-the-badge&logo=adobe%20xd&logoColor=%23FFF&logoSize=height%3D25px&color=%23450135)
+
 
 ### Operative System
-[![OS](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+![LINUX](https://img.shields.io/badge/linux-passing?style=for-the-badge&logo=linux&logoColor=%23FFF&logoSize=height%3D25px&color=%23FCC624)
+![WINDOWS](https://img.shields.io/badge/windows-passing?style=for-the-badge&logo=windows&logoColor=%23FFF&logoSize=height%3D25px&color=%230078D4)
 
 ## 🌱 Currently Exploring
 
