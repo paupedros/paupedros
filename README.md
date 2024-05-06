@@ -4,7 +4,7 @@ I'm a Software Developer student at [ITIC BCN](https://agora.xtec.cat/iticbcn/) 
 
 ![paupedros's Stats](https://github-readme-stats.vercel.app/api?username=paupedros&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your username]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paupedros&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 
 ## 🚀 About Me
 At the moment, I'm studying at ITIC BCN, where I'm learning about the technologies and habilities needed to create complete web and mobile apps.
