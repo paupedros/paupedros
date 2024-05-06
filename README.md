@@ -10,7 +10,7 @@ I'm highly motivated to learn everything I can about Full-Stack Development and 
 
 ## Tech Stack
 ### Programming languages
-[![Languages](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,js,py)](https://skillicons.dev)
 
 ### Frontend
 [![Front](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
