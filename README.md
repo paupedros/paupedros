@@ -3,11 +3,7 @@
 I'm a Software Developer student at [ITIC BCN](https://agora.xtec.cat/iticbcn/) aiming to become a Full-Stack Developer.
 
 <div>
-  
-  ![paupedros's git Stats](https://github-readme-stats.vercel.app/api?username=paupedros&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-  ![paupedros's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paupedros&layout=compact&theme=vue-dark&show_icons=true&hide_border=true)
-  
+  ![paupedros's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paupedros&layout=compact&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 
