@@ -38,7 +38,6 @@ I'm highly motivated to learn everything I can about Full-Stack Development and 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Learning Java 17
   - Learning the bases of modern JavaScript
 
 ## 📖 Things to learn
