@@ -2,11 +2,6 @@
 
 I'm a Software Developer student at [ITIC BCN](https://agora.xtec.cat/iticbcn/) aiming to become a Full-Stack Developer.
 
-<div>
-  ![paupedros's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paupedros&layout=compact&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</div>
-
-
 
 ## 🚀 About Me
 At the moment, I'm studying at ITIC BCN, where I'm learning about the technologies and habilities needed to create complete web and mobile apps.
